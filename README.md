@@ -8,3 +8,7 @@ npm i
 # 開発
 
 npm start
+
+# LTで紹介したコード
+
+/src/App.js
